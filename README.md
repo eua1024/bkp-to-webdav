@@ -1,3 +1,5 @@
+![alt text](https://github.com/eua1024/bkp-to-webdav/blob/master/result.png)
+
 # (MacOS) sh-script for backuping folder to WebDAV
 Script:
 1. Archives the src folder in the archive format **src_date_time.zip**;
