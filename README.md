@@ -1,4 +1,4 @@
-# sh-script for backuping folder to WebDAV
+# (MacOS) sh-script for backuping folder to WebDAV
 Script:
 1. Archives the src folder in the archive format **src_date_time.zip**;
 2. Connects to Yandex.Drive via WebDAV and copy to the folder specified after the slash (in the script folder was specified **Backups**);
@@ -6,7 +6,7 @@ Script:
 
 P.S. Instead Yandex.Disk you can use any WebDAV service.
 
-# sh-скрипт для бекапирования папки в WebDAV
+# (MacOS) sh-скрипт для бекапирования папки в WebDAV
 
 Скрипт:
 1. Архивирует папку src в архив формата **src_date_time.zip**;
