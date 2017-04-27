@@ -1,4 +1,4 @@
-![alt text](https://github.com/eua1024/bkp-to-webdav/blob/master/result.png)
+![(MacOS) sh-script for backuping folder to WebDAV](https://github.com/eua1024/bkp-to-webdav/blob/master/result.png)
 
 # (MacOS) sh-script for backuping folder to WebDAV
 Script:
